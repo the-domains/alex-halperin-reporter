@@ -1,6 +1,6 @@
 name: 'Alex Halperin, Reporter'
 favicon: null
-layout_spectrum: 0.7769769930746406
+layout_spectrum: 0.75375
 typography_spectrum: 0.5041432029101998
 title: 'Alex Halperin, Reporter'
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
+    - '#868992'
+    - '#a9acb1'
+    - '#010100'
+    - '#60687b'
+    - '#3c2a1c'
   brandStrength: 0.27789529017172754
   lightness: 0.080566989723593
   saturation: 0.2674365579150617
