@@ -1,29 +1,18 @@
-name: 'Alex Halperin, Reporter'
-favicon: null
-layout_spectrum: 0.75375
-typography_spectrum: 0.5041432029101998
-title: 'Alex Halperin, Reporter'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#868992'
-    - '#a9acb1'
-    - '#010100'
-    - '#60687b'
-    - '#3c2a1c'
-  brandStrength: 0.5
+    - '#A0A0A8'
+    - '#183858'
+    - '#788088'
+    - '#3780C8'
+    - '#000000'
+  brandStrength: 0.181588
   lightness: 0.625
-  saturation: 0.2674365579150617
   rhythmicContrast: 0.5
+  saturation: 0.506757
+cta: {}
+layout_spectrum: 0.994088
+name: 'Alex Halperin, Reporter'
+opengraph: {}
 purpose: []
+typography_spectrum: 0.685811
